@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prajwalnaveeenn/Pro-Cart/static/css/main.073c9b0a.css",
+    "main.js": "/prajwalnaveeenn/Pro-Cart/static/js/main.6024aa8f.js",
+    "static/js/787.7a0ef5c1.chunk.js": "/prajwalnaveeenn/Pro-Cart/static/js/787.7a0ef5c1.chunk.js",
+    "index.html": "/prajwalnaveeenn/Pro-Cart/index.html",
+    "main.073c9b0a.css.map": "/prajwalnaveeenn/Pro-Cart/static/css/main.073c9b0a.css.map",
+    "main.6024aa8f.js.map": "/prajwalnaveeenn/Pro-Cart/static/js/main.6024aa8f.js.map",
+    "787.7a0ef5c1.chunk.js.map": "/prajwalnaveeenn/Pro-Cart/static/js/787.7a0ef5c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6024aa8f.js"
+  ]
+}
